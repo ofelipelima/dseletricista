@@ -24,7 +24,7 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Instalação de kit de entrada padrão - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="poste no padrão da celesc, instalação de poste padrão celesc, eletricista residencial, eletricista casa" />
+    <meta name="keywords" content="poste padrão, instalação de poste padrão, eletricista residencial, eletricista casa" />
     <meta name="description" content="Instalação de kit de entrada padrão para casas e residências em Florianópolis">
 </head>
 <body>

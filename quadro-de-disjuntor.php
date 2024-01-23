@@ -24,7 +24,7 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Quadro de disjuntor para casas - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="disjuntor no padrão da celesc, disjuntor residencial no padrão da celesc, disjuntor no padrão da celesc para residencia, quadro de disjuntor no padrão da celesc, quadro de disjuntor casa, quadro de disjuntor residencia" />
+    <meta name="keywords" content="disjuntor padrão, disjuntor residencial padrão, disjuntor padrão para residencia, quadro de disjuntor padrão, quadro de disjuntor casa, quadro de disjuntor residencia" />
     <meta name="description" content="Quadro de disjuntor para casas e residências em Florianópolis">
 </head>
 <body>

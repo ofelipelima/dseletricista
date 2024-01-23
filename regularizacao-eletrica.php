@@ -24,8 +24,8 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Regularização elétrica - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="regularização elétrica, regularização elétrica para padrão celesc, regularizar energia para padrão celesc, arrumar no padrão da celesc, eletricista no padrão da celesc" />
-    <meta name="description" content="Regularização elétrica no padrão da CELESC em Florianópolis">
+    <meta name="keywords" content="regularização elétrica, arrumar no padrão, eletricista padrão" />
+    <meta name="description" content="Regularização elétrica padrão em Florianópolis">
 </head>
 <body>
 

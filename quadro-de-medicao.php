@@ -24,7 +24,7 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Quadro de medição para casas e residências - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="quadro de medição no padrão da celesc, quadro de medição para casa no padrão da celesc, quadro de medição residencial no padrão da celesc, quadro de medição residencia" />
+    <meta name="keywords" content="quadro de medição padrão, quadro de medição para casa padrão, quadro de medição residencial no padrão, quadro de medição residencia" />
     <meta name="description" content="Quadro de medição para casas e residências em Florianópolis">
 </head>
 <body>

@@ -24,8 +24,8 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Montagem de padrão de energia - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="padrão de energia da celesc, montagem de energia no padrão da celesc, eletricista padrão celesc, eletricidade padrão celesc" />
-    <meta name="description" content="Instalações elétricas no padrão da CELESC para casas e residências em Florianópolis">
+    <meta name="keywords" content="padrão de energia, montagem de energia no padrão, eletricista padrão" />
+    <meta name="description" content="Instalações elétricas padrão para casas e residências em Florianópolis">
 </head>
 <body>
 
