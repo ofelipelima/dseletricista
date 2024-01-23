@@ -25,7 +25,7 @@
     <link href="css/style.css?v=2" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
-  	<title>DS Instalações Elétricas - Eletricista em Florianópolis</title>
+  	<title>Eletricista em Florianópolis</title>
 
     <meta name="keywords" content="eletricista, eletricista em florianópolis, eletricista residencial, eletricista industrial, eletricista predial, eletricista 24h, eletricista condomínio, quadro de disjuntor" />
     <meta name="description" content="Seu eletricista em Florianópolis">
