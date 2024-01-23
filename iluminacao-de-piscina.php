@@ -61,9 +61,9 @@
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Iluminação de piscina residencial</h4>
 
-                                        <p class="lead">Contamos com uma equipe de especialista em iluminação de piscinas residenciais e largo  conhecimento em tecnologias de iluminação LED, sistemas de controle inteligente e últimas tendências em design de iluminação.</p>
+                                        <p class="lead">Experiência em iluminação de piscinas residenciais e largo conhecimento em tecnologias de iluminação LED, sistemas de controle inteligente e últimas tendências em design de iluminação.</p>
                                         <p class="lead">Oferecemos serviços contínuos de manutenção para assegurar o desempenho ideal ao longo do tempo, além de suporte técnico dedicado.</p>
-                                        <p class="lead">Priorizamos soluções sustentáveis, promovendo a consciência ambiental sem comprometer a qualidade. Somos apaixonados pela criação de ambientes aquáticos deslumbrantes, nossa missão é transformar espaços aquáticos em verdadeiros oásis de beleza e sofisticação.</p>
+                                        <p class="lead">Priorizo soluções sustentáveis, promovendo a consciência ambiental sem comprometer a qualidade. Sou apaixonado pela criação de ambientes aquáticos deslumbrantes, com a missão de transformar espaços aquáticos em verdadeiros oásis de beleza e sofisticação.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

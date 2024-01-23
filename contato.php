@@ -116,7 +116,7 @@
                             <div class="tt-contact-info">
                                 <div class="simple-text size-3">
                                     <p style="margin-top: 10px;">
-                                        <a href="mailto:contato@dsinstalacoeseletricas.com.br">contato@dsinstalacoeseletricas.com.br</a><br>
+                                        <a href="mailto:contato@dseletricista.com.br">contato@dseletricista.com.br</a><br>
                                     </p>
                                 </div>
                             </div>

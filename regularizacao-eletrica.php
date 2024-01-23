@@ -60,8 +60,8 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Regularização elétrica</h4>
-                                        <p class="lead">Se você está com problemas para fazer sua reguralização elétrica com a concessionária de energia, temos uma equipe de eletricistas altamente experiente e qualificada, especializados em regularização de energia. Com mais de 20 anos de atuação no mercado, adquirimos um vasto conhecimento técnico e prático na área elétrica, proporcionando soluções eficientes e seguras para os nossos clientes.</p>
-                                        <p class="lead">Nosso prioridade é garantir a segurança dos nossos clientes e suas propriedades. Adotamos práticas seguras durante todas as fases do trabalho, utilizando ferramentas e equipamentos de alta qualidade.</p>
+                                        <p class="lead">Se você precisa fazer sua reguralização elétrica com a concessionária de energia, sou experiente e qualificado, especializado em regularização de energia. Com mais de 15 anos de atuação no mercado, adquiri um vasto conhecimento técnico e prático na área elétrica, proporcionando soluções eficientes e seguras para os nossos clientes.</p>
+                                        <p class="lead">Minha prioridade é garantir a segurança de suas propriedades. Adoto somente práticas seguras durante todas as fases do trabalho, utilizando ferramentas e equipamentos de alta qualidade.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

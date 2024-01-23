@@ -60,8 +60,8 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Infraestrutura elétrica</h4>
-                                        <p class="lead">Como eletricista experiente em infraestrutura elétrica residencial, proporciono tranquilidade aos clientes, assegurando que seus lares sejam seguros e eficientes do ponto de vista elétrico.</p>
-                                        <p class="lead">Para garantir que estou sempre atualizado com as mais recentes práticas e regulamentações do setor, mantenho-me constantemente envolvido em cursos e treinamentos. Além disso, possuo certificações reconhecidas que atestam minha competência e comprometimento com a excelência.</p>
+                                        <p class="lead">Experiência em infraestrutura elétrica residencial, proporcionando tranquilidade aos clientes, assegurando que seus lares sejam seguros e eficientes eletricamente.</p>
+                                        <p class="lead">Se você precisa de alguém para planejar e montar toda base elétrica em conformidade com as normas de segurança e eficiência energética, chame no WhatsApp para um orçamento ou agenda de visitas!</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

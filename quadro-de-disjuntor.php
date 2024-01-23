@@ -25,7 +25,7 @@
     <title>Quadro de disjuntor para casas - DS Instalações Elétricas</title>
 
     <meta name="keywords" content="disjuntor no padrão da celesc, disjuntor residencial no padrão da celesc, disjuntor no padrão da celesc para residencia, quadro de disjuntor no padrão da celesc, quadro de disjuntor casa, quadro de disjuntor residencia" />
-    <meta name="description" content="Quadro de disjuntor no padrão da CELESC para casas e residências em Florianópolis">
+    <meta name="description" content="Quadro de disjuntor para casas e residências em Florianópolis">
 </head>
 <body>
 
@@ -60,9 +60,8 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Quadro de disjuntores</h4>
-                                        <p class="lead">Como um especialista em instalação de quadros de disjuntores residenciais e com mais de duas décadas de experiência, estou comprometido em fornecer serviços excepcionais que garantam a segurança e eficiência elétrica em nossos projetos.</p>
-
-                                        <p class="lead">Nossa equipe é formada por profissionais qualificados e comprometidos com a excelência. Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>
+                                        <p class="lead">Como um especialista em instalação de quadros de disjuntores residenciais e com mais de 15 anos de experiência, estou comprometido em fornecer serviços excepcionais que garantam a segurança e eficiência elétrica dos seus projetos.</p>
+                                        <p class="lead">Profissional qualificado e comprometido com a excelência. Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

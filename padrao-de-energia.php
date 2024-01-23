@@ -60,9 +60,9 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Montagem Padrão</h4>
-                                        <p class="lead">Contamos com mais de 20 anos de experiência prática no campo da eletricidade, com ênfase na montagem de padrão das concessionárias de energia.</p>
-                                        <p class="lead"> Nosso compromisso é fazer a sua casa, condomínio ou comércio ser aprovado para ligação elétrica padrão e proporcionar tranquilidade aos nossos clientes, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
-                                        <p class="lead">Nossa dedicação à excelência é refletida na atenção meticulosa aos detalhes, na busca contínua por aprimoramento e na capacidade de superar desafios complexos. Estamos comprometidos em oferecer soluções elétricas de alta qualidade, priorizando a segurança e a satisfação dos clientes.</p>
+                                        <p class="lead">Mais de 15 anos de experiência prática no campo da eletricidade, montando padrões em conformidade com as concessionárias de energia.</p>
+                                        <p class="lead">Meu compromisso é fazer a instalação elétrica da sua casa, condomínio ou comércio no padrão de normas e segurança e proporcionar tranquilidade, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
+                                        <p class="lead">Minha dedicação à excelência é refletida na atenção meticulosa aos detalhes, na busca contínua por aprimoramento e na capacidade de superar desafios complexos. Estou comprometido em oferecer soluções elétricas de alta qualidade, priorizando a segurança e a satisfação.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

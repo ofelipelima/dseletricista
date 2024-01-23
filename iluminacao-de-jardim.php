@@ -60,9 +60,8 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Iluminação de jardim residencial</h4>
-                                        <p class="lead">Somos especializados em iluminação de jardim residencial. Com vasta experiência no setor, ofereçemos soluções personalizadas para realçar a beleza de espaços exteriores, combinando design inovador com eficiência energética, funcionalidade e sustentabilidade.Transforme seu ambiente com iluminação que une estética e funcionalidade.</p>
-
-                                        <p class="lead">Minha missão é superar as expectativas dos clientes, proporcionando soluções de iluminação que não apenas atendam às necessidades práticas, mas também elevem a estética e a atmosfera dos espaços. </p>
+                                        <p class="lead">Experiente em iluminação de jardim residencial. Soluções personalizadas para realçar a beleza de espaços exteriores, combinando design inovador com eficiência energética, funcionalidade e sustentabilidade.Transforme seu ambiente com iluminação que une estética e funcionalidade.</p>
+                                        <p class="lead">Minha missão é superar as expectativas dos clientes, proporcionando soluções de iluminação que não apenas atendam as necessidades práticas, mas também elevem a estética e a atmosfera dos espaços.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

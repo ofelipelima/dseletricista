@@ -61,7 +61,7 @@
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Melhoria de carga elétrica para casas</h4>
                                         <p class="lead">Como eletricista experiente em melhoria de carga elétrica residencial, estou comprometido em superar as expectativas dos meus clientes, garantindo que seus sistemas elétricos atendam aos mais altos padrões de qualidade e segurança.</p>
-                                        <p class="lead">Meu compromisso é fornecer serviços de alta qualidade, baseados em práticas seguras e conformidade com as normas elétricas. Utilizo materiais de última geração e técnicas inovadoras para garantir resultados duradouros e satisfação do cliente.</p>
+                                        <p class="lead">Meu compromisso é fornecer serviços de alta qualidade, baseados em práticas seguras e conformidade com as normas elétricas. Utilizo materiais e técnicas mais inovadoras para garantir resultados duradouros e satisfação do cliente.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

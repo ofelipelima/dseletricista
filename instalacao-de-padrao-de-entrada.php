@@ -22,10 +22,10 @@
     <link href="css/style.css?v=2" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
-    <title>Instalação de Kit de Poste no Padrão da CELESC - DS Instalações Elétricas</title>
+    <title>Instalação de kit de entrada padrão - DS Instalações Elétricas</title>
 
     <meta name="keywords" content="poste no padrão da celesc, instalação de poste padrão celesc, eletricista residencial, eletricista casa" />
-    <meta name="description" content="Instalação de kit de poste no padrão da CELESC e outras concessionárias de energia para casas e residências em Florianópolis">
+    <meta name="description" content="Instalação de kit de entrada padrão para casas e residências em Florianópolis">
 </head>
 <body>
 

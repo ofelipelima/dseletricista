@@ -62,7 +62,7 @@
                         <div class="select-arrow"><i class="fa fa-angle-down"></i></div>
                         <select>
                             <option value="*" selected="">Todos</option>
-                            <option value=".celesc">PADRÃO CELESC</option>
+                            <option value=".celesc">PADRÃO</option>
                             <option value=".comercial">Comercial</option>
                             <option value=".iluminacao">Iluminação</option>
                             <option value=".lustres">Lustres</option>
@@ -74,7 +74,7 @@
 
                     <ul class="isotope-nav mbottom35">
                         <li class="selected"><a href="#todos" data-filter="*">Todos</a></li>
-                        <li><a href="#celesc" data-filter=".celesc">PADRÃO CELESC</a></li>
+                        <li><a href="#celesc" data-filter=".celesc">PADRÃO</a></li>
                         <li><a href="#comercial" data-filter=".comercial">Comercial</a></li>
                         <li><a href="#iluminacao" data-filter=".iluminacao">Iluminação</a></li>
                         <li><a href="#lustres" data-filter=".lustres">Lustres</a></li>
@@ -136,14 +136,14 @@
                             </div>
                             <div class="isotope-item celesc residencial col-xs-12 col-sm-4 col-md-3">
                                 <div class="tt-project-2">
-                                    <img class="img-responsive" src="img/portfolio/4-a.jpg" height="245" width="270" alt="Disjuntor no padrão da CELESC">
+                                    <img class="img-responsive" src="img/portfolio/4-a.jpg" height="245" width="270" alt="Disjuntor padrão">
                                     <span class="tt-project-2-hover">
                                         <span class="tt-project-2-btn">
                                             <!-- <a href="#"><i class="stroke-icon icon-Linked"></i></a> -->
-                                            <a class="lightbox" data-title="Disjuntor no padrão da CELESC" href="img/portfolio/4.jpg"><i class="stroke-icon icon-Search"></i></a>
+                                            <a class="lightbox" data-title="Disjuntor padrão" href="img/portfolio/4.jpg"><i class="stroke-icon icon-Search"></i></a>
                                         </span>
                                         <span class="tt-project-2-info">
-                                            <a class="tt-project-2-link" href="javascript:void(0)">Disjuntor no padrão da CELESC</a>
+                                            <a class="tt-project-2-link" href="javascript:void(0)">Disjuntor padrão</a>
                                             <span class="simple-text">Montagem completa</span>
                                         </span>
                                     </span>

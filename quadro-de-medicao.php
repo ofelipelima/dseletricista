@@ -25,7 +25,7 @@
     <title>Quadro de medição para casas e residências - DS Instalações Elétricas</title>
 
     <meta name="keywords" content="quadro de medição no padrão da celesc, quadro de medição para casa no padrão da celesc, quadro de medição residencial no padrão da celesc, quadro de medição residencia" />
-    <meta name="description" content="Quadro de medição no padrão CELESC para casas e residências em Florianópolis">
+    <meta name="description" content="Quadro de medição para casas e residências em Florianópolis">
 </head>
 <body>
 
@@ -60,7 +60,7 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Quadro de medição</h4>
-                                        <p class="lead">Como um especialista em instalação de quadros de medição residencial e com mais de duas décadas de experiência, estou comprometido em fornecer serviços excepcionais que garantam a segurança e eficiência elétrica em nossos projetos.</p>
+                                        <p class="lead">Especialista em instalação de quadros de medição residencial e com mais de 15 anos de experiência, estou comprometido em fornecer serviços que garantam a segurança e eficiência elétrica em seus projetos.</p>
 
                                         <p class="lead">Nossa equipe é formada por profissionais qualificados e comprometidos com a excelência. Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>
                                         <p>&nbsp;</p>

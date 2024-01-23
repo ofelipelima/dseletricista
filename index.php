@@ -41,56 +41,6 @@
             <div class="rev_slider"  data-version="5.0">
                 <ul>
                     <li data-transition="parallaxvertical" data-ease="SlowMo.ease">
-                        <img src="img/slider/poste-celesc.jpg" height="650" width="1920"  alt="">
-
-                        <h1 class="tp-caption sfb tp-resizeme tt-rev-title"
-                            data-x="left" data-hoffset="['620', '620', '320', '320']"
-                            data-y="top" data-voffset="167" 
-                            data-whitespace="nowrap"
-                            data-transform_idle="o:1;" 
-                            data-transform_in="o:0" 
-                            data-transform_out="o:0" 
-                            data-start="500">                        
-                            Instalação de Kit<br>
-                            <span>Poste Padrão</span>
-                        </h1>                       
-
-                        <div class="tp-caption sfb tp-resizeme simple-text size-5 color-6 font-5"
-                            data-x="left" data-hoffset="['620', '620', '320', '320']"
-                            data-y="top"  data-voffset="291" 
-                            data-whitespace="nowrap"
-                            data-transform_idle="o:1;" 
-                            data-transform_in="o:0" 
-                            data-transform_out="o:0" 
-                            data-start="1000"> 
-                            <p>Mais de 20 anos de experiência em<br> instalações elétricas nos <i>padrões CELESC</i><br>e outras concessionárias de energia</p>
-                        </div>
-
-                        <a class="tp-caption sfr tp-resizeme c-btn type-1 color-7" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações" 
-                            target="_blank" 
-                            data-x="left" data-hoffset="['620', '620', '320', '320']"
-                            data-y="top" data-voffset="422" 
-                            data-whitespace="nowrap"
-                            data-transform_idle="o:1;" 
-                            data-transform_in="o:0" 
-                            data-transform_out="o:0" 
-                            data-start="2000"> 
-                            <span><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp</span>
-                        </a>
-
-                        <a class="tp-caption sfl tp-resizeme c-btn type-1 color-2" href="#orcamento"
-                            data-x="left" data-hoffset="['820', '820', '520', '520']"
-                            data-y="top" data-voffset="422" 
-                            data-whitespace="nowrap"
-                            data-transform_idle="o:1;" 
-                            data-transform_in="o:0" 
-                            data-transform_out="o:0" 
-                            data-start="1500">                         
-                            <span>Orçamento</span>
-                        </a>
-                    </li>
-
-                    <li data-transition="parallaxvertical" data-ease="SlowMo.ease">
                         <img src="img/slider/instalacao-eletrica3.jpg" height="650" width="1920"  alt="">
 
                         <h1 class="tp-caption sfb tp-resizeme tt-rev-title-2"
@@ -112,8 +62,8 @@
                             data-transform_in="o:0" 
                             data-transform_out="o:0" 
                             data-start="1000">                         
-                            <p><i>Somos especializados em instalações, reparos e manutenção elétrica.<br>
-                                Desde a instalação de novos pontos de energia até a resolução de problemas de curto-circuito,<br>nossa equipe qualificada e experiente garante um serviço seguro e eficiente.</i></p>
+                            <p><i>Especializado em instalações, reparos e manutenção elétrica.<br>
+                                Desde a instalação de novos pontos de energia até a resolução de problemas de curto-circuito,<br>profissional qualificado e experiente com a garantia de um serviço seguro e eficiente.</i></p>
                         </div>
 
                         <a class="tp-caption sfr tp-resizeme c-btn type-1 color-2" href="#orcamento"
@@ -174,8 +124,8 @@
                             data-transform_in="o:0" 
                             data-transform_out="o:0" 
                             data-start="1000">                         
-                            <p><i>Contamos com profissionais capacitados para analisar, <br>
-                                revisar e trocar quadros de disjutores de baixa, média ou alta tensão.
+                            <p><i>Profissional capacitado para analisar, revisar e trocar <br>
+                                quadros de disjutores de baixa, média ou alta tensão.
                             </i></p>
                         </div>                       
 
@@ -212,18 +162,12 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="simple-text">
-                        <h3>DS Instalações Elétricas</h3>
-                        <p>A empresa <i><b>DS Instalações Elétricas</b></i>  é uma referência no setor, acumulando mais de 20 anos de experiência em instalação e manutenção elétrica, troca de kit de poste padrão Celesc e outras concessionárias de energia, iluminação de jardim entre outros serviços elétricos.</p><p>Nosso compromisso é oferecer serviços de alta qualidade, segurança e eficiência, contribuindo para a confiabilidade e excelência no fornecimento de energia elétrica.</p><p>Contamos com uma equipe capacitada e tecnologia avançada para atender às demandas específicas, garantindo a satisfação de nossos clientes e a integridade do sistema elétrico. </p> <p>Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>                
+                        <h3>Douglas Santos Eletricista</h3>
+                        <p>Olá, tudo bem?! Meu nome é <i><b>Douglas Santos, da DS Instalações Elétricas</b></i>  e há mais de 15 anos faço instalação e manutenção elétrica, troca de kit de poste interno para casas e apartamentos, iluminação de jardim entre outros serviços elétricos.</p>
+                        <p>Meu compromisso é oferecer serviços de alta qualidade, segurança e eficiência, contribuindo para a confiabilidade e excelência nas suas instalações elétricas.</p>
+                        <p>Sou capacitado e trabalho com tecnologia avançada para atender as demandas dos mais exigentes clientes, garantindo a satisfação e a integridade do sistema elétrico. </p>
+                        <p>Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar ou comércio seja um ambiente seguro e protegido.</p>
                     </div>
-                    <!-- PASSA DO LAYOUT DA PAGINA -->
-                    <!--<div class="empty-space marg-lg-b30"></div>
-                    <ul class="custom-links">
-                        <li><a href="#">Instalação de poste Celesc</a></li>
-                        <li><a href="#">Regularização de elétrica</a></li>
-                        <li><a href="#">Instação de quadro de disjuntor predial</a></li>                        
-                        <li><a href="#">Instação de quadro de disjuntor residencial</a></li>
-                        <li><a href="melhoria_eletrica_pred.html">Melhoria de carga elétrica predial</a></li>
-                    </ul>-->                     
                     <div class="empty-space marg-sm-b30"></div>
                 </div>
                 <div class="col-sm-6">
@@ -234,7 +178,7 @@
                         <div class="tt-commercial-info">
                             <a class="tt-commercial-title" href="iluminacao-de-piscina.php">Iluminação de piscina</a>
                             <div class="simple-text">
-                                <p>Contamos com uma equipe especializada em iluminação de piscinas residenciais e condomínios.</p>
+                                <p>Projetos de iluminação de piscinas residenciais e condomínios.</p>
                             </div>
                             <a class="c-btn type-2" href="iluminacao-de-piscina.php">Leia mais</a>
                         </div>
@@ -248,7 +192,7 @@
                         <div class="tt-commercial-info">
                             <a class="tt-commercial-title" href="iluminacao-de-jardim.php">Iluminação de jardim</a>
                             <div class="simple-text">
-                                <p>Expertise em iluminação de jardins residenciais e prediais. Com vasta experiência no setor, ofereçemos soluções personalizadas!</p>
+                                <p>Iluminação de jardins residenciais e prediais. Soluções personalizadas para deixar seu jardim iluminado!</p>
                             </div>
                             <a class="c-btn type-2" href="iluminacao-de-jardim.php">Leia mais</a>
                         </div>
@@ -311,7 +255,7 @@
             <div class="empty-space marg-lg-b25"></div>
 
             <div class="simple-text size-3 color-5">
-                <p>Explore nossos serviços elétricos personalizados, garantindo segurança e eficiência em instalações residenciais e comerciais. Nossa equipe qualificada está comprometida em oferecer soluções inovadoras e confiáveis para atender às suas necessidades específicas.</p>
+                <p>Explore nossos serviços elétricos personalizados, garantindo segurança e eficiência em instalações residenciais e comerciais. Nossa equipe qualificada está comprometida em oferecer soluções inovadoras e confiáveis para atender as suas necessidades elétricas.</p>
             </div>
             <div class="empty-space marg-lg-b50 marg-md-b30"></div>
 
@@ -336,9 +280,9 @@
                             <img src="img/service/service_8.png" height="70" width="54" alt="">
                         </div>
                         <div class="tt-service-4-info">
-                            <a class="tt-service-4-title" href="instalacao-de-kit-de-poste-padrao.php">Kit de Poste padrão</a>
+                            <a class="tt-service-4-title" href="instalacao-de-padrao-de-entrada.php">Padrão de entrada</a>
                             <div class="simple-text color-5">
-                                <p>Instalação e troca de kit de poste padrão.</p>
+                                <p>Instalação e troca de padrão de entrada nos padrões.</p>
                             </div>
                         </div>
                     </div>
@@ -421,7 +365,7 @@
                             <div class="tt-service-info">
                                 <a class="tt-service-title c-h5" href="padrao-de-energia.php">Montagem elétrica padrão</a>
                                 <div class="simple-text">
-                                    <p>Mais de 20 anos de experiência, qualidade, segurança e eficiência em montagem de padrão de energia. Está com problemas para regularizar ou aprovar sua montagem elétrica? Resolvemos pra você!</p>
+                                    <p>Mais de 15 anos de experiência, qualidade, segurança e eficiência em montagem de padrão de energia. Está com problemas para regularizar ou aprovar sua montagem elétrica? Ajudamos a resolver!</p>
                                 </div>
                                 <a class="c-btn type-2 color-2" href="padrao-de-energia.php">Leia mais</a>
                             </div>
@@ -434,11 +378,11 @@
                                 <img src="img/service/service_14.png" height="107" width="107" alt="">
                             </div>
                             <div class="tt-service-info">
-                                <a class="tt-service-title c-h5" href="instalacao-de-kit-de-poste-padrao.php">Kit de poste padrão</a>
+                                <a class="tt-service-title c-h5" href="instalacao-de-padrao-de-entrada.php">Kit de entrada padrão</a>
                                 <div class="simple-text">
-                                    <p>Instalação de kit de postes no padrão da CELESC e outras concessionárias de energia. Quer ter certeza que o poste e instalações serão aprovados? Conte conosco para esta tarefa. Mais de 20 anos de experiência.</p>
+                                    <p>Instalação de kit de entrada padrão de concessionárias de energia. Conte com o Douglas para esta tarefa. Mais de 15 anos de experiência.</p>
                                 </div>
-                                <a class="c-btn type-2 color-2" href="instalacao-de-kit-de-poste-padrao.php">Leia mais</a>
+                                <a class="c-btn type-2 color-2" href="instalacao-de-padrao-de-entrada.php">Leia mais</a>
                             </div>
                         </div>
                         <div class="empty-space marg-sm-b30"></div>
@@ -451,7 +395,7 @@
                             <div class="tt-service-info">
                                 <a class="tt-service-title c-h5" href="quadro-de-disjuntor-predial.php">Quadro de disjuntores predial</a>
                                 <div class="simple-text">
-                                    <p>Execução de projetos de grande porte para vários condomínios em Florianópolis. Padronize com segurança, garantindo eficiência energética, economizando tempo e recursos sem perder qualidade.</p>
+                                    <p>Execução de projetos de grande porte para condomínios em Florianópolis. Padronize com segurança, garantindo eficiência energética, economizando tempo e recursos sem perder qualidade.</p>
                                 </div>
                                 <a class="c-btn type-2 color-2" href="quadro-de-disjuntor-predial.php">Leia mais</a>
                             </div>

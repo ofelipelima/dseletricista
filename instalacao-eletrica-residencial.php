@@ -60,8 +60,8 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Instalação elétrica residencial</h4>
-                                        <p class="lead">Nossa equipe é altamente qualificada e experiente no ramo elétrico, somos especializados em instalação elétrica residencial. Com uma trajetória consolidada, estamos comprometidos em oferecer serviços de excelência, garantindo segurança, eficiência e conformidade com as normas técnicas mais rigorosas.</p>
-                                        <p class="lead"> Nosso compromisso é proporcionar tranquilidade aos nossos clientes, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
+                                        <p class="lead">Altamente qualificado e experiente no ramo elétrico, especializado em instalações elétricas residencial. Comprometido em oferecer serviços de excelência, garantindo segurança, eficiência e conformidade com as normas técnicas mais rigorosas.</p>
+                                        <p class="lead">Nosso compromisso é proporcionar tranquilidade aos nossos clientes, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

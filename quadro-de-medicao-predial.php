@@ -60,7 +60,7 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Quadro de medição predial</h4>
-                                        <p class="lead">Como um especialista em instalação de quadros de medição predial e com mais de duas décadas de experiência, estou comprometido em fornecer serviços excepcionais que garantam a segurança e eficiência elétrica em nossos projetos.</p>
+                                        <p class="lead">Como um especialista em instalação de quadros de medição predial e com mais de 15 anos de experiência, estou comprometido em fornecer serviços excepcionais que garantam a segurança e eficiência elétrica em nossos projetos.</p>
 
                                         <p class="lead">Nossa equipe é formada por profissionais qualificados e comprometidos com a excelência. Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>
                                         <p>&nbsp;</p>

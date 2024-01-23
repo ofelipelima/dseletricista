@@ -104,7 +104,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 	";
 
 	// envia o e-mail
-	$enviaEmail = enviaEmail($nome,$email,'contato@dsinstalacoeseletricas.com.br',$msg,$assunto);
+	$enviaEmail = enviaEmail($nome,$email,'contato@dseletricista.com.br',$msg,$assunto);
 
 	// testa se enviou o email
 	if ( $enviaEmail )
