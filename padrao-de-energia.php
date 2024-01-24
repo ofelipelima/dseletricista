@@ -77,7 +77,7 @@
                                 <div class="col-sm-3">
                                     <img src="img/service-detail/montagem-padrao-celesc.jpg" height="205" width="270" alt="Padrão de entrada de energia">
                                     <div class="empty-space marg-lg-b30"></div>
-                                    <img src="img/service-detail/troca-de-poste2.jpg" height="205" width="270" alt="Poste interno celesc" title="Instalo e troco poste interno padrão celesc">
+                                    <img src="img/service-detail/montagem-padrao-celesc2.jpg" height="205" width="270" alt="Poste interno celesc" title="Instalo e troco poste interno padrão celesc">
                                 </div>
                             </div>
                             <div class="empty-space marg-sm-b30"></div>
