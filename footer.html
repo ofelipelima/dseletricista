@@ -21,8 +21,9 @@
                     <li><a href="quadro-de-medicao-predial.php">Quadro de medição predial</a></li>
                     <li><a href="melhoria-de-carga-eletrica-predial.php">Melhoria de carga elétrica predial</a></li>
                     <li><a href="infraestrutura-eletrica.php">Infraestrutura elétrica</a></li>
-                    <li><a href="infraestrutura-eletrica-predial.php">Infraestrutura elétrica predial</a></li>                      
-                    <li><a href="instalacao-eletrica-residencial.php">Instalação elétrica residencial</a></li>                      
+                    <li><a href="infraestrutura-eletrica-predial.php">Infraestrutura elétrica predial</a></li>
+                    <li><a href="instalacao-eletrica-residencial.php">Instalação elétrica residencial</a></li>
+                    <li><a href="politica-de-privacidade.php">Política de Privacidade</a></li>
                 </ul>
                 <div class="empty-space marg-md-b30"></div>
             </div>
@@ -91,3 +92,30 @@
 
 <!-- wpp -->
 <a title="Chama no zap!" href="https://api.whatsapp.com/send/?phone=5548998414008&text=Olá! Vim pelo site da DS Instalações Elétricas e gostaria de mais informações.&type=phone_number&app_absent=0" class="wppfloater" target="_blank" id="wpp-btn"><i class="fa fa-whatsapp my-float"></i></a>
+
+<!-- cookies -->
+<div class="banner-lgpd-consent-container hidden">
+	<div class="banner-lgpd-consent banner-lgpd-consent--show">
+		<div id="lgpd-consent__text" class="banner-lgpd-consent__column">Este site utiliza cookies, conforme explicado em nossa <a href="politica-de-privacidade.php" target="_blank" class="banner-lgpd-consent__link">Política de Privacidade</a>. Ao continuar navegando, você concorda com as condições.</div>
+		<div class="banner-lgpd-consent__column">
+			<button class="banner-lgpd-consent__accept">OK</button>
+		</div>
+	</div>
+</div>
+
+<script>
+(() => {
+if (!localStorage.dseletricista_data_use_consent) {
+    document.querySelector(".banner-lgpd-consent-container").classList.remove('hidden');
+}
+
+const acceptCookies = () => {
+    document.querySelector(".banner-lgpd-consent-container").classList.add('hidden');
+    localStorage.setItem("dseletricista_data_use_consent", "accept");
+};
+
+const btnCookies = document.querySelector(".banner-lgpd-consent__accept");
+
+btnCookies.addEventListener('click', acceptCookies);
+})();
+</script>
