@@ -25,7 +25,7 @@
     <title>Quadro de medição para prédios e condomínios - DS Instalações Elétricas</title>
 
     <meta name="keywords" content="quadro de medição no padrão celesc, quadro de medição para condominio no padrão celesc, quadro de medição predial no padrão celesc, quadro de medição condomínio, quadro de medição predial" />
-    <meta name="description" content="Quadro de medição no padrão da CELESC para prédios e condomínios em Florianópolis">
+    <meta name="description" content="Quadro de medição padrão para prédios e condomínios em Florianópolis">
 </head>
 <body>
 

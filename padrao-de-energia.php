@@ -24,8 +24,8 @@
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Montagem de padrão de energia - DS Instalações Elétricas</title>
 
-    <meta name="keywords" content="padrão de energia, montagem de energia no padrão, eletricista padrão, padrão celesc, entra de energia padrão celesc" />
-    <meta name="description" content="Instalações elétricas no padrão da celesc para casas e residências em Florianópolis">
+    <meta name="keywords" content="padrão de energia, montagem de energia no padrão, eletricista padrão, padrão, entrada de energia padrão" />
+    <meta name="description" content="Instalações elétricas padrão para casas e residências em Florianópolis">
 </head>
 <body>
 
@@ -60,8 +60,6 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Montagem Elétrica Padrão</h4>
-                                        <p class="lead">Se você precisa instalar ou trocar seu kit de poste padrão dentro das normas da celesc ou fazer qualquer instalação ou troca que siga os padrões de segurança e normativos da concessionária de energia, conte comigo para esta tarefa.
-                                        <br><a href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações sobre montagem de padrão de energia" target="_blank" rel="nofollow noopener noreferrer"><u>Orçamento gratuito</u>!</a></p>
                                         <p class="lead">Mais de 15 anos de experiência prática no campo da eletricidade, montando padrões em conformidade com as concessionárias de energia.</p>
                                         <p class="lead">Meu compromisso é fazer a instalação elétrica da sua casa, condomínio ou comércio no padrão de normas e segurança e proporcionar tranquilidade, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
                                         <p class="lead">Minha dedicação à excelência é refletida na atenção meticulosa aos detalhes, na busca contínua por aprimoramento e na capacidade de superar desafios complexos. Estou comprometido em oferecer soluções elétricas de alta qualidade, priorizando a segurança e a satisfação.</p>
@@ -77,7 +75,7 @@
                                 <div class="col-sm-3">
                                     <img src="img/service-detail/montagem-padrao-celesc.jpg" height="205" width="270" alt="Padrão de entrada de energia">
                                     <div class="empty-space marg-lg-b30"></div>
-                                    <img src="img/service-detail/montagem-padrao-celesc2.jpg" height="205" width="270" alt="Poste interno celesc" title="Instalo e troco poste interno padrão celesc">
+                                    <img src="img/service-detail/montagem-padrao-celesc2.jpg" height="205" width="270" alt="Poste interno celesc">
                                 </div>
                             </div>
                             <div class="empty-space marg-sm-b30"></div>
