@@ -96,7 +96,7 @@
 
                         <h2 class="tp-caption sfb tp-resizeme tt-rev-title-3"
                             data-x="left" data-hoffset="['655', '655', '320', '100']"
-                            data-y="top" data-voffset="105" 
+                            data-y="top" data-voffset="['135', '135', '135', '105']" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
                             data-transform_in="o:0" 
@@ -133,7 +133,7 @@
                         <a class="tp-caption sfr tp-resizeme c-btn type-1 hidden-xs" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações" 
                             target="_blank"
                             data-x="left" data-hoffset="['655', '655', '320', '320']" 
-                            data-y="top" data-voffset="422" 
+                            data-y="top" data-voffset="452" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
                             data-transform_in="o:0" 
@@ -144,7 +144,7 @@
 
                         <a class="tp-caption sfl tp-resizeme c-btn type-1 color-2 hidden-xs" href="#orcamento"
                             data-x="left" data-hoffset="['855', '855', '520', '520']"
-                            data-y="top" data-voffset="422" 
+                            data-y="top" data-voffset="452" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
                             data-transform_in="o:0" 
