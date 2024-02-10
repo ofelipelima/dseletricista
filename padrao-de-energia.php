@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Montagem de padrão de energia - DS Instalações Elétricas</title>
@@ -60,9 +60,9 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Montagem Elétrica Padrão</h4>
-                                        <p class="lead">Mais de 15 anos de experiência prática no campo da eletricidade, montando padrões em conformidade com as concessionárias de energia.</p>
-                                        <p class="lead">Meu compromisso é fazer a instalação elétrica da sua casa, condomínio ou comércio no padrão de normas e segurança e proporcionar tranquilidade, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
-                                        <p class="lead">Minha dedicação à excelência é refletida na atenção meticulosa aos detalhes, na busca contínua por aprimoramento e na capacidade de superar desafios complexos. Estou comprometido em oferecer soluções elétricas de alta qualidade, priorizando a segurança e a satisfação.</p>
+                                        <p class="lead-text">Mais de 15 anos de experiência prática no campo da eletricidade, montando padrões em conformidade com as concessionárias de energia.</p>
+                                        <p class="lead-text">Meu compromisso é fazer a instalação elétrica da sua casa, condomínio ou comércio no padrão de normas e segurança e proporcionar tranquilidade, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
+                                        <p class="lead-text">Minha dedicação à excelência é refletida na atenção meticulosa aos detalhes, na busca contínua por aprimoramento e na capacidade de superar desafios complexos. Estou comprometido em oferecer soluções elétricas de alta qualidade, priorizando a segurança e a satisfação.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

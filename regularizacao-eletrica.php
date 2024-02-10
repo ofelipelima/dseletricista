@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Regularização elétrica - DS Instalações Elétricas</title>
@@ -60,8 +60,8 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Regularização elétrica</h4>
-                                        <p class="lead">Se você precisa fazer sua reguralização elétrica com a concessionária de energia, sou experiente e qualificado, especializado em regularização de energia. Com mais de 15 anos de atuação no mercado, adquiri um vasto conhecimento técnico e prático na área elétrica, proporcionando soluções eficientes e seguras para os nossos clientes.</p>
-                                        <p class="lead">Minha prioridade é garantir a segurança de suas propriedades. Adoto somente práticas seguras durante todas as fases do trabalho, utilizando ferramentas e equipamentos de alta qualidade.</p>
+                                        <p class="lead-text">Se você precisa fazer sua reguralização elétrica com a concessionária de energia, sou experiente e qualificado, especializado em regularização de energia. Com mais de 15 anos de atuação no mercado, adquiri um vasto conhecimento técnico e prático na área elétrica, proporcionando soluções eficientes e seguras para os nossos clientes.</p>
+                                        <p class="lead-text">Minha prioridade é garantir a segurança de suas propriedades. Adoto somente práticas seguras durante todas as fases do trabalho, utilizando ferramentas e equipamentos de alta qualidade.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

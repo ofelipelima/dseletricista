@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Iluminação de piscina predial - DS Instalações Elétricas</title>
@@ -60,10 +60,10 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Iluminação de piscina predial</h4>
-                                        <p class="lead">Contamos com uma equipe de especialistas em iluminação de piscina predial e largo conhecimento em tecnologias de iluminação LED, sistemas de controle inteligente e últimas tendências em design de iluminação.</p>
-                                        <p class="lead">Oferecemos serviços contínuos de manutenção para assegurar o desempenho ideal ao longo do tempo, além de suporte técnico dedicado.</p>
+                                        <p class="lead-text">Contamos com uma equipe de especialistas em iluminação de piscina predial e largo conhecimento em tecnologias de iluminação LED, sistemas de controle inteligente e últimas tendências em design de iluminação.</p>
+                                        <p class="lead-text">Oferecemos serviços contínuos de manutenção para assegurar o desempenho ideal ao longo do tempo, além de suporte técnico dedicado.</p>
 
-                                        <p class="lead">Priorizamos soluções sustentáveis, promovendo a consciência ambiental sem comprometer a qualidade. Somos apaixonados pela criação de ambientes aquáticos deslumbrantes e nossa missão é transformar espaços aquáticos em verdadeiros oásis de beleza e sofisticação.</p>
+                                        <p class="lead-text">Priorizamos soluções sustentáveis, promovendo a consciência ambiental sem comprometer a qualidade. Somos apaixonados pela criação de ambientes aquáticos deslumbrantes e nossa missão é transformar espaços aquáticos em verdadeiros oásis de beleza e sofisticação.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
   	<title>Iluminação de jardim para condomínios e prédios - DS Instalações Elétricas</title>
@@ -60,9 +60,9 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Iluminação de jardim predial</h4>
-                                        <p class="lead">Somos especializados em iluminação de jardim predial. Com vasta experiência no setor, ofereçemos soluções personalizadas para realçar a beleza de espaços exteriores, combinando design inovador com eficiência energética, funcionalidade e sustentabilidade.Transforme seu ambiente com iluminação que une estética e funcionalidade.</p>
+                                        <p class="lead-text">Somos especializados em iluminação de jardim predial. Com vasta experiência no setor, ofereçemos soluções personalizadas para realçar a beleza de espaços exteriores, combinando design inovador com eficiência energética, funcionalidade e sustentabilidade.Transforme seu ambiente com iluminação que une estética e funcionalidade.</p>
 
-                                        <p class="lead">Minha missão é superar as expectativas dos clientes, proporcionando soluções de iluminação que não apenas atendam às necessidades práticas, mas também elevem a estética e a atmosfera dos espaços. </p>
+                                        <p class="lead-text">Minha missão é superar as expectativas dos clientes, proporcionando soluções de iluminação que não apenas atendam às necessidades práticas, mas também elevem a estética e a atmosfera dos espaços. </p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Instalações Elétricas para prédios e condomínios - DS Instalações Elétricas</title>
@@ -60,8 +60,10 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Instalação elétrica predial</h4>
-                                        <p class="lead">Nossa equipe é altamente qualificada e experiente no ramo elétrico, somos especializados em instalação elétrica predial. Com uma trajetória consolidada, estamos comprometidos em oferecer serviços de excelência, garantindo segurança, eficiência e conformidade com as normas técnicas mais rigorosas.</p>
-                                        <p class="lead"> Nosso compromisso é proporcionar tranquilidade aos nossos clientes, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
+                                        <p class="lead-text">Precisando de instalação elétrica predial em Florianópolis? Conte conosco! Experiência de mais de 15 anos em planejamento, execução, serviços e reparos elétricos.</p>
+                                        <p class="lead-text">Envie sua dúvida ou orçamento pelo WhatsApp ou pelo formulário que respondemos o mais breve possível.</p>
+                                        <p class="lead-text">Nossa equipe é altamente qualificada e experiente no ramo elétrico, somos especializados em instalação elétrica predial. Com uma trajetória consolidada, estamos comprometidos em oferecer serviços de excelência, garantindo segurança, eficiência e conformidade com as normas técnicas mais rigorosas.</p>
+                                        <p class="lead-text">Nosso compromisso é proporcionar tranquilidade aos nossos clientes, assegurando que todas as instalações sejam realizadas de maneira segura e eficaz.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

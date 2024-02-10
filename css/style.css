@@ -779,6 +779,13 @@ textarea {
   word-wrap: break-word;
 }
 
+.lead-text {
+  font-size: 21px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 1.4;
+}
+
 .simple-text a {
   color: #1b95b9;
 }
@@ -5457,8 +5464,17 @@ textarea {
 
 @media (max-width: 650px) {
   .tp-caption p i {
-    font-size: 10px !important;
-    line-height: 10px !important;
+    font-size: 17px !important;
+    line-height: 22px !important;
+  }
+  .tt-rev-title-2, .tt-rev-title-2 span {
+    font-size: 22px !important;
+    line-height: 22px !important;
+  }
+  
+  .tt-rev-title-3, .tt-rev-title-3 span {
+    font-size: 22px !important;
+    line-height: 26px !important;
   }
 }
 

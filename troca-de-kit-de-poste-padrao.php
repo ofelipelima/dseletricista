@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Troca de kit de poste padrão - DS Instalações Elétricas</title>
@@ -60,8 +60,8 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Troca de kit de poste padrão</h4>
-                                        <p class="lead">Se você precisa trocar o seu poste interno da casa ou condomínio para aprovação da CELESC ou outra concessionária de energia, conte com nossa equipe qualificada e experiente no ramo elétrico de padrões. Somos especializados na troca de kit de postes padrão. Com uma trajetória consolidada, estamos comprometidos em oferecer serviços de excelência, garantindo segurança, eficiência e conformidade com as normas técnicas mais rigorosas.</p>
-                                        <p class="lead">Priorizando a segurança em cada operação, a empresa investe em treinamento contínuo para sua equipe, implementa protocolos rigorosos e adere estritamente às normas regulatórias do setor elétrico.</p>
+                                        <p class="lead-text">Se você precisa trocar o seu poste interno da casa ou condomínio para aprovação da CELESC ou outra concessionária de energia, conte com nossa equipe qualificada e experiente no ramo elétrico de padrões. Somos especializados na troca de kit de postes padrão. Com uma trajetória consolidada, estamos comprometidos em oferecer serviços de excelência, garantindo segurança, eficiência e conformidade com as normas técnicas mais rigorosas.</p>
+                                        <p class="lead-text">Priorizando a segurança em cada operação, a empresa investe em treinamento contínuo para sua equipe, implementa protocolos rigorosos e adere estritamente às normas regulatórias do setor elétrico.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

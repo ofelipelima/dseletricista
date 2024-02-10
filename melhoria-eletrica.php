@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Melhoria de carga elétrica - DS Instalações Elétricas</title>
@@ -60,8 +60,9 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Melhoria de carga elétrica para casas</h4>
-                                        <p class="lead">Como eletricista experiente em melhoria de carga elétrica residencial, estou comprometido em superar as expectativas dos meus clientes, garantindo que seus sistemas elétricos atendam aos mais altos padrões de qualidade e segurança.</p>
-                                        <p class="lead">Meu compromisso é fornecer serviços de alta qualidade, baseados em práticas seguras e conformidade com as normas elétricas. Utilizo materiais e técnicas mais inovadoras para garantir resultados duradouros e satisfação do cliente.</p>
+                                        <p class="lead-text">Somos especialistas em melhoria de carga elétrica (ou fator de carga elétrica) residencial com mais de 15 anos de experiência!</p>
+                                        <p class="lead-text">Envie sua mensagem pelo formulário abaixo ou mande sua mensagem no WhatsApp. Orçamento gratuito!</p>
+                                        <p class="lead-text">Meu compromisso é fornecer serviços de alta qualidade, baseados em práticas seguras e conformidade com as normas elétricas. Utilizo materiais e técnicas mais inovadoras para garantir resultados duradouros e satisfação do cliente.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

@@ -22,12 +22,12 @@
     <link href="css/settings.css" rel="stylesheet" type="text/css" />
     <link href="css/layers.css" rel="stylesheet" type="text/css" />
     <link href="css/navigation.css" rel="stylesheet" type="text/css" />    
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
   	<title>Eletricista em Florianópolis</title>
 
-    <meta name="keywords" content="eletricista, eletricista em florianópolis, eletricista residencial, eletricista industrial, eletricista predial, eletricista 24h, eletricista condomínio, quadro de disjuntor" />
+    <meta name="keywords" content="eletricista, eletricista em florianópolis, eletricista residencial, eletricista industrial, eletricista predial, eletricista 24h, eletricista condomínio, quadro de disjuntor, serviços de eletricista, eletricista emergencia" />
     <meta name="description" content="Seu eletricista em Florianópolis">
 </head>
 <body>
@@ -44,7 +44,7 @@
                         <img src="img/slider/instalacao-eletrica3.jpg" height="650" width="1920"  alt="">
 
                         <h1 class="tp-caption sfb tp-resizeme tt-rev-title-2"
-                            data-x="left" data-hoffset="0" 
+                            data-x="left" data-hoffset="30" 
                             data-y="top" data-voffset="167" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
@@ -54,21 +54,21 @@
                             Instalação Elétrica<br> <span>Residencial e Predial</span>
                         </h1>
                         
-                        <div class="tp-caption sfb tp-resizeme simple-text size-5 color-2 font-2"
-                            data-x="left" data-hoffset="0" 
-                            data-y="top" data-voffset="298" 
+                        <div class="tp-caption sfb tp-resizeme simple-text size-5 color-2 font-2" style="background-color: rgba(0, 0, 0, .5); padding: 14px 6px; font-size: 2.5rem"
+                            data-x="left" data-hoffset="20" 
+                            data-y="top" data-voffset="338" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
                             data-transform_in="o:0" 
                             data-transform_out="o:0" 
                             data-start="1000">                         
-                            <p><i>Especializado em instalações, reparos e manutenção elétrica.<br>
-                                Desde a instalação de novos pontos de energia até a resolução de problemas de curto-circuito,<br>profissional qualificado e experiente com a garantia de um serviço seguro e eficiente.</i></p>
+                            <p><i>Instalações, reparos e manutenção elétrica.<br>
+                            Garantia de um serviço seguro e eficiente.</i></p>
                         </div>
 
-                        <a class="tp-caption sfr tp-resizeme c-btn type-1 color-2" href="#orcamento"
-                            data-x="left" data-hoffset="200" 
-                            data-y="top" data-voffset="422" 
+                        <a class="tp-caption sfr tp-resizeme c-btn type-1 color-2 hidden-xs" href="#orcamento"
+                            data-x="left" data-hoffset="250" 
+                            data-y="top" data-voffset="472" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
                             data-transform_in="o:0" 
@@ -77,10 +77,10 @@
                             <span>Orçamento</span>
                         </a>
 
-                        <a class="tp-caption sfl tp-resizeme c-btn type-1" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações" 
+                        <a class="tp-caption sfl tp-resizeme c-btn type-1 hidden-xs" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações" 
                             target="_blank"
-                            data-x="left" data-hoffset="0" 
-                            data-y="top" data-voffset="422" 
+                            data-x="left" data-hoffset="30" 
+                            data-y="top" data-voffset="472" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
                             data-transform_in="o:0" 
@@ -95,8 +95,8 @@
                         <div class="tt-rev-3-overlay"></div>
 
                         <h2 class="tp-caption sfb tp-resizeme tt-rev-title-3"
-                            data-x="left" data-hoffset="['655', '655', '320', '320']"
-                            data-y="top" data-voffset="135" 
+                            data-x="left" data-hoffset="['655', '655', '320', '100']"
+                            data-y="top" data-voffset="105" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
                             data-transform_in="o:0" 
@@ -106,7 +106,7 @@
                         </h2>
 
                         <h2 class="tp-caption sfb tp-resizeme tt-rev-title-3 color-2"
-                            data-x="left" data-hoffset="['655', '655', '320', '320']"
+                            data-x="left" data-hoffset="['655', '655', '320', '100']"
                             data-y="top" data-voffset="197" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
@@ -116,20 +116,21 @@
                             Residencial e Predial
                         </h2>                   
 
-                        <div class="tp-caption sfb tp-resizeme simple-text size-5 color-2 font-5" style="background-color: rgba(0, 0, 0, .5); padding: 14px 6px;"
-                            data-x="left" data-hoffset="['655', '655', '320', '320']"
-                            data-y="top" data-voffset="286" 
+                        <div class="tp-caption sfb tp-resizeme simple-text size-5 color-2 font-5" style="background-color: rgba(0, 0, 0, .5); padding: 14px 6px; font-size: 2.5rem"
+                            data-x="left" data-hoffset="['655', '655', '320', '80']"
+                            data-y="top" data-voffset="306" 
                             data-whitespace="nowrap"
                             data-transform_idle="o:1;" 
                             data-transform_in="o:0" 
                             data-transform_out="o:0" 
                             data-start="1000">                         
-                            <p><i>Profissional capacitado para analisar, revisar e trocar <br>
-                                quadros de disjutores de baixa, média ou alta tensão.
+                            <p><i>Profissional capacitado para analisar, <br>
+                            revisar e trocar quadros de disjutores <br>
+                            de baixa, média ou alta tensão.
                             </i></p>
                         </div>                       
 
-                        <a class="tp-caption sfr tp-resizeme c-btn type-1" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações" 
+                        <a class="tp-caption sfr tp-resizeme c-btn type-1 hidden-xs" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações" 
                             target="_blank"
                             data-x="left" data-hoffset="['655', '655', '320', '320']" 
                             data-y="top" data-voffset="422" 
@@ -141,7 +142,7 @@
                             <span><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp</span>
                         </a>
 
-                        <a class="tp-caption sfl tp-resizeme c-btn type-1 color-2" href="#orcamento"
+                        <a class="tp-caption sfl tp-resizeme c-btn type-1 color-2 hidden-xs" href="#orcamento"
                             data-x="left" data-hoffset="['855', '855', '520', '520']"
                             data-y="top" data-voffset="422" 
                             data-whitespace="nowrap"
@@ -155,17 +156,34 @@
                 </ul>
             </div>
         </div>
-        <div class="empty-space marg-lg-b85 marg-md-b60"></div>
+        <div class="empty-space marg-lg-b85 marg-md-b30"></div>
+
+        <!-- BTN-MOBILE -->
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <a class="tp-caption sfr tp-resizeme c-btn type-1 color-2 hidden-lg" href="#orcamento"> 
+                        <span>Orçamento</span>
+                    </a>
+                    <div class="empty-space marg-lg-b0 marg-md-b20"></div>
+                    <a class="tp-caption sfl tp-resizeme c-btn type-1 hidden-lg" href="https://wa.me/5548998414008?text=Olá! Vim pelo site e gostaria de mais informações" 
+                            target="_blank">                         
+                        <span><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp</span>
+                    </a>
+                    <div class="empty-space marg-lg-b0 marg-md-b20"></div>
+                </div>
+            </div>
+        </div>
         
         <!-- TT-COMMERCIAL -->
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
                     <div class="simple-text">
-                        <h3>Douglas Santos Eletricista</h3>
-                        <p>Olá, tudo bem?! Meu nome é <i><b>Douglas Santos, da DS Instalações Elétricas</b></i>  e há mais de 15 anos faço instalação e manutenção elétrica, troca de kit de poste interno para casas e apartamentos, iluminação de jardim entre outros serviços elétricos.</p>
-                        <p>Meu compromisso é oferecer serviços de alta qualidade, segurança e eficiência, contribuindo para a confiabilidade e excelência nas suas instalações elétricas.</p>
-                        <p>Sou capacitado e trabalho com tecnologia avançada para atender as demandas dos mais exigentes clientes, garantindo a satisfação e a integridade do sistema elétrico. </p>
+                        <h3 class="text-center">Seu Eletricista em Florianópolis</h3>
+                        <p>Olá, tudo bem?! Meu nome é <i><b>Douglas Santos, sou eletricista chefe da DS Instalações Elétricas</b></i> e há mais de 15 anos faço instalação e manutenção elétrica, serviços e reparos elétricos, instalação e troca de kit de poste no padrão celesc para casas e apartamentos, iluminação de jardins e piscinas, entre outros serviços elétricos.</p>
+                        <p>Meu compromisso é oferecer serviços de alta qualidade, segurança e eficiência, para que você tenha confiança e tranquilidade nas suas instalações elétricas.</p>
+                        <p>Sou capacitado e trabalho com tecnologia avançada para atender as demandas dos mais exigentes clientes, garantindo a satisfação e a integridade do sistema elétrico.</p>
                         <p>Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar ou comércio seja um ambiente seguro e protegido.</p>
                     </div>
                     <div class="empty-space marg-sm-b30"></div>

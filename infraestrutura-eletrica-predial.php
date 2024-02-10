@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Infraestrutura elétrica predial - DS Instalações Elétricas</title>
@@ -60,8 +60,8 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Infraestrutura elétrica predial</h4>
-                                        <p class="lead">Como eletricista experiente em infraestrutura elétrica predial, proporciono tranquilidade aos clientes, assegurando que seus lares sejam seguros e eficientes do ponto de vista elétrico.</p>
-                                        <p class="lead">Para garantir que estou sempre atualizado com as mais recentes práticas e regulamentações do setor, mantenho-me constantemente envolvido em cursos e treinamentos. Além disso, possuo certificações reconhecidas que atestam minha competência e comprometimento com a excelência.</p>
+                                        <p class="lead-text">Como eletricista experiente em infraestrutura elétrica predial, proporciono tranquilidade aos clientes, assegurando que seus lares sejam seguros e eficientes do ponto de vista elétrico.</p>
+                                        <p class="lead-text">Para garantir que estou sempre atualizado com as mais recentes práticas e regulamentações do setor, mantenho-me constantemente envolvido em cursos e treinamentos. Além disso, possuo certificações reconhecidas que atestam minha competência e comprometimento com a excelência.</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

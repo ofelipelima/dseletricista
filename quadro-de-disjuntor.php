@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Quadro de disjuntor para casas - DS Instalações Elétricas</title>
@@ -36,7 +36,7 @@
         <!-- TT-PAGELABEL -->
         <div class="tt-pagelabel background-block" style="background-image:url(img/breadcrumbs/breadcrumbs.jpg);">
             <div class="container">
-                <h1 class="tt-pagelabel-title">Quadro de disjuntor padrão</h1>
+                <h1 class="tt-pagelabel-title">Quadro de disjuntor residencial</h1>
             </div>
         </div>
 
@@ -60,8 +60,9 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Quadro de disjuntores</h4>
-                                        <p class="lead">Como um especialista em instalação de quadros de disjuntores residenciais e com mais de 15 anos de experiência, estou comprometido em fornecer serviços excepcionais que garantam a segurança e eficiência elétrica dos seus projetos.</p>
-                                        <p class="lead">Profissional qualificado e comprometido com a excelência. Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>
+                                        <p class="lead-text">Somos especialistas em quadros de disjuntores residenciais com mais de 15 anos de experiência!</p>
+                                        <p class="lead-text">Precisa fazer instalação de quadro de disjuntores? Ou a troca do quadro de disjuntores? Envie sua mensagem pelo formulário abaixo ou mande sua mensagem no WhatsApp. Orçamento gratuito!</p>
+                                        <p class="lead-text">Profissional qualificado e comprometido com a excelência. Cada projeto é conduzido em conformidade com as normas e regulamentações elétricas vigentes, garantindo que o seu lar seja um ambiente seguro e protegido. </p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">

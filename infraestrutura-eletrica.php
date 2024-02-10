@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" rel="stylesheet">
     <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=4" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="img/favicon-e.ico" />
     <title>Infraestrutura elétrica - DS Instalações Elétricas</title>
@@ -60,8 +60,8 @@
                                 <div class="col-sm-9">
                                     <div class="simple-text">
                                         <h4 class="tt-block-title c-h3">Infraestrutura elétrica</h4>
-                                        <p class="lead">Experiência em infraestrutura elétrica residencial, proporcionando tranquilidade aos clientes, assegurando que seus lares sejam seguros e eficientes eletricamente.</p>
-                                        <p class="lead">Se você precisa de alguém para planejar e montar toda base elétrica em conformidade com as normas de segurança e eficiência energética, chame no WhatsApp para um orçamento ou agenda de visitas!</p>
+                                        <p class="lead-text">Experiência em infraestrutura elétrica residencial, proporcionando tranquilidade aos clientes, assegurando que seus lares sejam seguros e eficientes eletricamente.</p>
+                                        <p class="lead-text">Se você precisa de alguém para planejar e montar toda base elétrica em conformidade com as normas de segurança e eficiência energética, chame no WhatsApp para um orçamento ou agenda de visitas!</p>
                                         <p>&nbsp;</p>
                                         <p>
                                             <div class="text-center">
